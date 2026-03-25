@@ -22,7 +22,7 @@ cd src
 python train.py
 python predict.py
 
-
+PROJECT STRUCTURE
 disease-prediction/
 │── data/
 │── model/
